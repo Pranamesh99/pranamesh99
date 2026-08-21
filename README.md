@@ -1,17 +1,21 @@
-```text
+<div align="center">
+
+<pre>
 ██████╗ ███████╗███████╗██████╗  █████╗ ██╗  ██╗
 ██╔══██╗██╔════╝██╔════╝██╔══██╗██╔══██╗██║ ██╔╝
 ██║  ██║█████╗  █████╗  ██████╔╝███████║█████╔╝
 ██║  ██║██╔══╝  ██╔══╝  ██╔═══╝ ██╔══██║██╔═██╗
 ██████╔╝███████╗███████╗██║     ██║  ██║██║  ██╗
 ╚═════╝ ╚══════╝╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝
-```
+</pre>
 
-<h3 align="center">Software Engineer · Java & Spring Boot · AI/ML · Cloud</h3>
+<h2>Software Engineer · Java & Spring Boot · AI/ML · Cloud</h2>
 
-<p align="center">
-  Building backend systems, intelligent applications, and learning something new every day.
+<p>
+Building backend systems, intelligent applications, and learning something new every day.
 </p>
+
+</div>
 
 ---
 
