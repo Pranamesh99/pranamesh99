@@ -1,4 +1,3 @@
-````markdown
 ```text
 ██████╗ ███████╗███████╗██████╗  █████╗ ██╗  ██╗
 ██╔══██╗██╔════╝██╔════╝██╔══██╗██╔══██╗██║ ██╔╝
@@ -6,7 +5,7 @@
 ██║  ██║██╔══╝  ██╔══╝  ██╔═══╝ ██╔══██║██╔═██╗
 ██████╔╝███████╗███████╗██║     ██║  ██║██║  ██╗
 ╚═════╝ ╚══════╝╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝
-````
+```
 
 <h3 align="center">Software Engineer · Java & Spring Boot · AI/ML · Cloud</h3>
 
@@ -64,12 +63,12 @@ Secure backend system built with Java and Spring Boot.
 
 **Highlights**
 
-* RESTful API architecture
-* JWT-based authentication
-* Spring Security
-* PostgreSQL database
-* Dockerized deployment
-* Designed with scalability and security in mind
+- RESTful API architecture
+- JWT-based authentication
+- Spring Security
+- PostgreSQL database
+- Dockerized deployment
+- Secure authentication and authorization
 
 `Java` `Spring Boot` `Spring Security` `JWT` `PostgreSQL` `Docker`
 
@@ -81,11 +80,11 @@ AI-powered food refund fraud detection system.
 
 **Highlights**
 
-* Computer vision based fraud detection
-* CNN-based deep learning model
-* Image processing with OpenCV
-* Built using PyTorch
-* Focused on identifying suspicious refund patterns
+- Computer vision based fraud detection
+- CNN-based deep learning model
+- Image processing with OpenCV
+- Built using PyTorch
+- Detection of suspicious refund patterns
 
 `Python` `PyTorch` `OpenCV` `CNN` `AI/ML`
 
@@ -97,11 +96,11 @@ AI-powered satellite deforestation detection platform.
 
 **Highlights**
 
-* Satellite-image based analysis
-* Machine learning powered detection
-* Flask backend
-* Interactive web dashboard
-* Visualized insights using Chart.js
+- Satellite-image based analysis
+- Machine learning powered detection
+- Flask backend
+- Interactive web dashboard
+- Data visualization using Chart.js
 
 `Python` `Flask` `JavaScript` `Chart.js` `Machine Learning`
 
@@ -111,7 +110,7 @@ AI-powered satellite deforestation detection platform.
 
 ```text
 [+] Advanced Spring Boot
-[+] Backend Architecture
+[+] Backend Development
 [+] System Design
 [+] AWS & Cloud
 [+] Machine Learning
@@ -188,6 +187,3 @@ DevOps               ████████░░░░░░░░░░  Exp
 ### `> exit`
 
 **Let's build something useful.**
-
-```
-```
