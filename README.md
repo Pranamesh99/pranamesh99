@@ -1,14 +1,18 @@
-# ````text
+````markdown
+```text
 ██████╗ ███████╗███████╗██████╗  █████╗ ██╗  ██╗
 ██╔══██╗██╔════╝██╔════╝██╔══██╗██╔══██╗██║ ██╔╝
 ██║  ██║█████╗  █████╗  ██████╔╝███████║█████╔╝
 ██║  ██║██╔══╝  ██╔══╝  ██╔═══╝ ██╔══██║██╔═██╗
 ██████╔╝███████╗███████╗██║     ██║  ██║██║  ██╗
-╚═════╝ ╚══════╝╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝`
+╚═════╝ ╚══════╝╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝
+````
 
-### Software Engineer · Java & Spring Boot · AI/ML · Cloud
+<h3 align="center">Software Engineer · Java & Spring Boot · AI/ML · Cloud</h3>
 
-`Building backend systems, intelligent applications, and learning something new every day.`
+<p align="center">
+  Building backend systems, intelligent applications, and learning something new every day.
+</p>
 
 ---
 
@@ -142,33 +146,48 @@ DevOps               ████████░░░░░░░░░░  Exp
 
 ## `> stats --display`
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Pranamesh99)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Pranamesh99" alt="GitHub Streak" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranamesh99\&show_icons=true\&theme=transparent)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranamesh99&show_icons=true&theme=transparent" alt="GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranamesh99\&layout=compact\&theme=transparent)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranamesh99&layout=compact&theme=transparent" alt="Top Languages" />
+</p>
 
 ---
 
 ## `> connect --with_me`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/pranamesh-kotipalli/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Pranamesh99-black?style=for-the-badge\&logo=github)](https://github.com/Pranamesh99)
-
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:pranamesh67@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/pranamesh-kotipalli/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Pranamesh99">
+    <img src="https://img.shields.io/badge/GitHub-Pranamesh99-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="mailto:pranamesh67@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+</p>
 
 ---
 
 ```text
-┌─────────────────────────────────────────────────────────┐
-│  CURRENTLY : Building backend + AI systems              │
-│  LEARNING  : Spring Boot · AWS · System Design         │
-│  GOAL      : Become a production-ready Software Engineer│
-│  STATUS    : [ ACTIVELY BUILDING ]                     │
-└─────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────┐
+│  CURRENTLY : Building backend + AI systems               │
+│  LEARNING  : Spring Boot · AWS · System Design          │
+│  GOAL      : Become a production-ready Software Engineer │
+│  STATUS    : [ ACTIVELY BUILDING ]                      │
+└──────────────────────────────────────────────────────────┘
 ```
 
 ### `> exit`
 
 **Let's build something useful.**
+
+```
+```
